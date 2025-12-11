@@ -1,62 +1,50 @@
 [
   {
-    "name": "FreeWrld",
-    "review": "Bought the phone store, I love it.",
-    "stars": 5
+    "id": "1",
+    "supportRating": 5,
+    "comments": "helped me a lot to get this done",
+    "user": "Adin Primrose",
+    "date": "14/11/2025",
+    "image": "https://cdn.discordapp.com/avatars/1282834876730707970/e8fcb0db1233ddf6afe1f604e9282dab.webp?size=80"
   },
   {
-    "name": "Harriett",
-    "review": "Love the store and the offer of customising it. Speedy turnaround. 10/10 service!",
-    "stars": 5
+    "id": "2",
+    "supportRating": 5,
+    "comments": "can i add infinite stars? - cause the support of the creator is damn good! ",
+    "user": "Kyra",
+    "date": "16/10/2025",
+    "image": "https://cdn.discordapp.com/avatars/869985605952614441/45670c79db50b1931332326d69cdd0f9.webp?size=80"
   },
   {
-    "name": "𝔇𝔦𝔬𝔯 𝔇𝔬𝔩𝔩 ℜ𝔢𝔪𝔦 :broken_heart:",
-    "review": "Purchased iFruit and 24/7 Market! Great prices, amazing and fast customer service!!! Will recommend!",
-    "stars": 5
+    "id": "3",
+    "supportRating": 5,
+    "comments": "Can't thank @!tsBanana enough, super quick and efficient support and high quality MLOs. Will be back for more!",
+    "user": "MJB",
+    "date": "01/10/2025",
+    "image": "https://cdn.discordapp.com/avatars/346318457165447170/77f906a2967f2a685716e2c53ef7abce.webp?size=80"
   },
   {
-    "name": "BIGMONEYMAYHEM",
-    "review": "10/10",
-    "stars": 5
+    "id": "4",
+    "supportRating": 5,
+    "comments": "⚡ Fast transaction and 😊 very friendly service! I requested some unlocked logo files so I could make edits, and my request was granted right after purchase. Super reliable! 🏪💯 @!tsBanana",
+    "user": "NeggiBells",
+    "date": "05/08/2025",
+    "image": "https://cdn.discordapp.com/avatars/399638736620617738/d0720a8825b0e078cac237d017106be1.webp?size=80"
   },
   {
-    "name": "BaboEmro",
-    "review": "I really haven't seen anything like this beautiful MLO, please keep it up.",
-    "stars": 5
+    "id": "5",
+    "supportRating": 5,
+    "comments": "Fast support and very friendly",
+    "user": "N4CHO",
+    "date": "13/07/2025",
+    "image": "https://cdn.discordapp.com/avatars/241238980752965643/a_9be7839506c8505624f4d700442d7d60.webp?size=80"
   },
   {
-    "name": "Siah",
-    "review": "Banana was very helpful and fast on resolving my issue.",
-    "stars": 5
+    "id": "6",
+    "supportRating": 5,
+    "comments": "Very friendly and helpful support, they helped me a lot",
+    "user": "xMorizebill",
+    "date": "06/07/2025,",
+    "image": "https://cdn.discordapp.com/avatars/531568759526391808/ce8df18ddd19d12070333464b3e9a09e.webp?size=80"
   },
-  {
-    "name": "Jxhn ツ",
-    "review": "Very helpful making Gabz Hornys MLO compatible with the Mirror Park Digital Den Location.",
-    "stars": 5
-  },
-  {
-    "name": "Fayqo",
-    "review": "Best support! Banana helped me with everything I needed to get help with!",
-    "stars": 5
-  },
-  {
-    "name": ":performing_arts: IAMLKING :performing_arts:",
-    "review": "The best support.",
-    "stars": 5
-  },
-  {
-    "name": "!BAU:dizzy:",
-    "review": "10/10 VERY FAST :star::star::star::star::star::star::star:",
-    "stars": 5
-  },
-  {
-    "name": "Ultra",
-    "review": "Great and fast support!",
-    "stars": 5
-  },
-  {
-    "name": "𝓝𝓪𝓷𝓭𝓸_𝓢𝓽𝓪𝓬𝓬𝔃 | 𝓕.𝓞.𝓔",
-    "review": "Love the product! And thank you for helping me!",
-    "stars": 5
-  }
 ]
